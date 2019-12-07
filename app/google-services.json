@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "891114211488",
+    "firebase_url": "https://udacity-android-20495.firebaseio.com",
+    "project_id": "udacity-android-20495",
+    "storage_bucket": "udacity-android-20495.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891114211488:android:3df6f04410b8193a41e1c5",
+        "android_client_info": {
+          "package_name": "com.example.android.eggtimernotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891114211488-2gg239lrq8ln4bcqj9mc5h0na0vthlu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWOkE-rRZS1p99if4S67peghO9qzTxYj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891114211488-2gg239lrq8ln4bcqj9mc5h0na0vthlu8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
